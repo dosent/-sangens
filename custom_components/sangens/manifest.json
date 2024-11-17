@@ -1,6 +1,6 @@
 {
-  "domain": "sangens_station",
-  "name": "SangensStation",
+  "domain": "sangens",
+  "name": "Sangens Station",
   "documentation": "https://github.com/dosent/sangens",
   "dependencies": [],
   "version": "0.0.1",
