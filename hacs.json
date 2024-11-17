@@ -1,0 +1,8 @@
+{
+  "name": "Module for managing Sangens",
+  "country": "RU",
+  "render_readme": false,
+  "zip_release": true,
+  "filename": "sangens_managing.zip",
+  "homeassistant":  "2024.2.0"
+}
