@@ -4,8 +4,5 @@
   "documentation": "https://github.com/dosent/sangens",
   "dependencies": [],
   "version": "0.0.1",
-  "codeowners": [
-    "dosent"
-  ],
   "requirements": []
 }
