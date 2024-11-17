@@ -1,11 +1,10 @@
 {
   "domain": "sangens",
   "name": "Sangens Station",
-  "codeowners": [],
-  "dependencies": [],
-  "issue_tracker": "https://github.com/dosent/sangens/issues",
+  "codeowners": ["@dosent"],
   "documentation": "https://github.com/dosent/sangens",
   "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/dosent/sangens/issues",
   "requirements": [],
   "version": "0.0.1"
 }
