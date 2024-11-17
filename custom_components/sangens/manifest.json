@@ -3,8 +3,8 @@
   "name": "Sangens Station",
   "documentation": "https://github.com/dosent/sangens",
   "dependencies": [],
-  "version": "0.0.1",
-  "codeowners": [],
   "iot_class": "local_polling",
-  "requirements": []
+  "requirements": [],
+  "codeowners": [],
+  "version": "0.0.1"
 }
