@@ -1,8 +1,9 @@
 {
   "domain": "sangens_station",
   "name": "SangensStation",
-  "documentation": "https://gitverse.ru/dosent/sangens",
+  "documentation": "https://github.com/dosent/sangens",
   "dependencies": [],
+  "version": "0.0.1",
   "codeowners": [
     "Neshin Ivan"
   ],
