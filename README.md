@@ -9,5 +9,5 @@ The component is being developed using reverse engineering techniques because th
 
 ## Установка Installation
 ### HACS
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration) [![HACS Action](https://github.com/dosent/-sangens/actions/workflows/hacs.yml/badge.svg)](https://github.com/dosent/-sangens/actions/workflows/hacs.yml) [![Validate with hassfest](https://github.com/dosent/-sangens/actions/workflows/hassfest.yaml/badge.svg)](https://github.com/dosent/-sangens/actions/workflows/hassfest.yaml)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration) [![HACS Action](https://github.com/dosent/sangens/actions/workflows/hacs.yml/badge.svg)](https://github.com/dosent/sangens/actions/workflows/hacs.yml) [![Validate with hassfest](https://github.com/dosent/sangens/actions/workflows/hassfest.yaml/badge.svg)](https://github.com/dosent/sangens/actions/workflows/hassfest.yaml)
 1. Go to HACS
