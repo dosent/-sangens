@@ -1,0 +1,23 @@
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Lint
+        run: |
+          pip install -r requirements.txt
+          python -m hacs.validate /home/runner/work/${{ github.event.repository.name }}/${{ github.event.repository.name }}
+
+env:
+  HACS: ${{ secrets.HACS }}
+  TOKEN: ${{ secrets.GITHUB_TOKEN }}
